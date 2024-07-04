@@ -49,4 +49,5 @@ En el codigo encontrara comentarios de lo que realiza cada linea explicando el f
 
 ## Power BI
 Aqui se realizo un análisis simple destancando los hoteles mas caros, precio de hoteles mas cercanos al centro de Córdoba, o el menor precio de un hotel.
+
 ![](https://github.com/Federicoleyria/End-to-end-data/blob/main/Power%20BI%20An%C3%A1lisis%20Booking.com%20C%C3%B3rdoba.PNG)
