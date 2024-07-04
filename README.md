@@ -9,6 +9,7 @@ Este proyecto se ha desarrollado exclusivamente con el propósito de practicar y
 
 Es importante destacar que, aunque este proyecto abarca una pequeña cantidad de datos inicialmente, ha sido diseñado con todas las fases necesarias para obtener información valiosa de manera ética. Además, está concebido como un proyecto escalable, lo que permite la recopilación de datos de tanto meses,semanas o dias disponibles en la página booking.com.
 ## Requisitos
+Se utilizo entornos virtuales para la instalacion de librerias en Python, en este caso de uso venv
 Python 3.x
 Librerías de Python: pandas, playwright
 Power BI
